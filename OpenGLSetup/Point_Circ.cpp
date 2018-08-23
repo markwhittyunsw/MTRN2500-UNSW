@@ -14,6 +14,7 @@ protected:
 	double R;
 	double G;
 	double B;
+	double alpha;
 public:
 	Point();
 	Point(double x, double y);
